@@ -1,0 +1,7 @@
+[repository]
+enable_branch = true
+enable_commit = true
+
+[[transforms]]
+path = 'README.md'
+replace = "sub-version: {version}"
