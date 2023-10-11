@@ -1,4 +1,4 @@
 # test-sub-sheep
 Subproject to test sheepit
 
-sub-version: 5.0.2
+sub-version: 5.0.3
